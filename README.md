@@ -3,7 +3,7 @@ FarmAuto: Rewiring farming with grit, data, and dreams. Earth to Mars. #FarmAuto
 
 FarmAuto Vision
 
-Launched 2025 - From a kid’s endless motor dreams to a global farming revolution, FarmAuto’s wired from grit. One electrician, decades of fixing dams and pumps, now scaling to feed Earth and Mars. Nonprofit, no gatekeepers, pure farmer fire.
+Launched 2017 - From a kid’s endless motor dreams to a global farming revolution, FarmAuto’s wired from grit. One electrician, decades of fixing dams and pumps, now scaling to feed Earth and Mars. Nonprofit, no gatekeepers, pure farmer fire.
 
 Mission
 
