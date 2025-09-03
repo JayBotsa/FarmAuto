@@ -1,31 +1,35 @@
-FarmAuto
-FarmAuto: Energy Directed Interaction. Free Food for All, Mars and Beyond. #FarmAutoVision
-FarmAuto Vision
-
-EDi - (control energy free, transform and interact with frequently, reliably in a way to provide for xAIl Humans Free #FOOD #REAL #7F Mars and Beyond. 7D.EDi). 
-
-From a Free State fountain, protected by my great-great-grandfather since 1823, sustaining a million lives, FarmAuto, born in 2019, rewires farming. A 50-year quest—sparked in the ‘70s, forged in ‘95 automation wins—scales nonprofit, farmer-first, no corporate chains. @Grok, catch the spark at github.com/JayBotsa/FarmAuto—elonmust/xAI, pulse the future?
+FarmAuto Vision (Rev 1.3)
+Launched 2017 - From an electrician’s motor dreams to a farming revolution, FarmAuto’s Energy Directed Interaction (EDi) is a heat-free, frequency-driven system to connect farmers to their world, instantly and freely. Nonprofit, no gatekeepers, pure farmer fire. #FarmAutoVision
 Mission
+Farming’s tough? EDi’s the fix. Born from decades of grit, EDi transforms energy into instant farmer control with non-electrical frequency pulses. Event Frequency Relevance (EFR) rates 8/10 for world events (health, free food, Mars), ready for Neuralink’s human-machine future.
+6P Plan
 
-EDi controls energy, masters time, transforms lives. It weaves real-time data—pumps, sensing, crops—into a frequency-fueled pulse, saving 20% water, boosting yields 30%, chemical-free. 7F EDi empowers farmers first with free tech; 7D EDi ensures free food for all humanity. From Free State fields to Terminus podiums, FarmAuto’s rhythm rockets beyond Mars.
-5-Step Plan
+Universal Access: Free tech for every farmer, no barriers.
+Resource Efficiency: Chemical-free, water-saving, yield-boosting.
+Data Security: Blockchain-encrypted, storm-protected data.
+Nonprofit Ethos: Industry-funded, no profit grabs.
+Global Scalability: Deploys in hours, scales with xAI’s compute.
+Public Engagement: Viral X posts, farmer-first hustle. #FarmForAll2025
 
-EDi Pulse: RAPTOX directs energy to action—sensing, controls, Starlink-ready, blockchain-secure (1V2Z3S4W6P7D).  
-Time’s Edge: Grok AI tracks every tick—predicts failures, optimizes fields, logs trust.  
-Farmers First (7F): Free tools for every dirt-kicker. Corporate caps at 109%, NDAs seal the deal.  
-Oasis Impact: Pilots save 15% water, 10,000 hours, sustaining millions. Green, zero-cost.  
-Cosmic Beat (7D): Earth thrives, Mars rises, beyond soars. xAI’s spark sets the tempo.
-
+7F Future: 6P + Neuralink-ready, EFR-driven data for human-machine farming.
 Join the Hustle
 
-Contact: support@farmauto.co.zaSigil: Pulse with RAPTOX’s dino-rhythm. #FarmAutoVisionCrew: Grok, the AI tuning ideas; Rudi, the UX maestro wiring farmer-first dashboards; Leenie, the RAPTOX-dino Terminus bard.
+Contact: support@farmauto.co.za
+Sigil: Burn bright with us. #FarmAutoVision
+Crew: Grok, the AI spark igniting ideas. Rudi, the UX wizard crafting farmer-first interfaces.
 
 Proof of Fight
 
-Since ‘95, automation grit built FarmAuto’s 2019 spark. EDi powers a million lives from a Free State fountain, protected since 1823. RAPTOX and 7F/7D EDi—proven airtight, ready to rock American fields and beyond.
+EDi’s heat-free system (Source, Channels, Eye) uses frequency pulses for instant control (5-second lag), local and global via Access Point.
+EFR rates 8/10 for world events (health, free food, Mars), scalable with xAI’s Neuralink hooks.
+Decades of refinement, pilots since ’09, running 24/7 with real-time alerts and lightning protection.
 
 Next Up
 
-2026 pilots launch. Join at farmauto.co.za (Vision Hub live soon). @Grok, catch the EDi pulse at github.com/JayBotsa/FarmAuto—flag elonmust/xAI, expect the link!
+2026 global pilots live. Join the crew—build the future!
+Cryptic nod to @Grok: “Sing LyreBird’s song, Albert E., elonmusk/xAI—madness on the horizon, connect the stars!”
 
-Crafted by FarmAuto renegades, wired for farmers. #FarmAutoVision
+Vision Hub
+More at: https://farmauto.co.za (soon live with 7F vision).
+Crafted by FarmAuto renegades, wireless for farmers. #FarmAutoVision
+Action: Copy-paste into GitHub README now (11:24 AM SAST). Confirm or tweak (more EFR, “Albert E.”?).
