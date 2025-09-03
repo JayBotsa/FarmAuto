@@ -1,4 +1,5 @@
 ![ℰDi Logo](https://github.com/JayBotsa/FarmAuto/raw/main/images/farmauto-logo.png)
+[ℰDi](https://github.com/JayBotsa/FarmAuto)
 
 # ℰDi Proclamation
 I claim this. This ℰDi-is Environment, (For all Humanity-Free-to-all-5F.AO.2025now(capture-event!)) - I give this, free to all Humanity to ensure All will Eat.
