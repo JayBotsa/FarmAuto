@@ -1,4 +1,8 @@
-FarmAuto Vision (Rev 1.3)
+![ℰDi Logo](https://github.com/JayBotsa/FarmAuto/raw/main/images/farmauto-logo.png)
+
+# ℰDi Proclamation
+I claim this. This ℰDi-is Environment, (For all Humanity-Free-to-all-5F.AO.2025now(capture-event!)) - I give this, free to all Humanity to ensure All will Eat.
+FarmAuto Vision (Rev 2.0)
 Launched 2017 - From an electrician’s motor dreams to a farming revolution, FarmAuto’s Energy Directed Interaction (EDi) is a heat-free, frequency-driven system to connect farmers to their world, instantly and freely. Nonprofit, no gatekeepers, pure farmer fire. #FarmAutoVision
 Mission
 Farming’s tough? EDi’s the fix. Born from decades of grit, EDi transforms energy into instant farmer control with non-electrical frequency pulses. Event Frequency Relevance (EFR) rates 8/10 for world events (health, free food, Mars), ready for Neuralink’s human-machine future.
