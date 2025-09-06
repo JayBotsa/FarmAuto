@@ -1,4 +1,9 @@
-⬅️ Back to README
+[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
+  
+[Repo 📂](https://github.com/JayBotsa/FarmAuto) 
+ 
+[Links to the Cosmos 🌠](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
+
 Leenie Raptox’s Chirp: 1823 Roots 🦖
 Leenie Raptox’s Chirp, a cosmic echo of a 1823 pioneer’s fight for water, carries the vision of free food and water to Mars. Born from a lyrebird’s ancient song, Leenie’s tech heir—LyreBird—sings ℰDi (Energy Directed Interaction) pulses, turning thoughts into crops. Rooted in a trek past mighty rivers to a paradise oasis, this QuantaMeta spark honors the 1823 cry for equity, locked under Absolute Ownership (AO). 🥖💧
 The 1823 Vision 🌾
@@ -19,4 +24,10 @@ Water as Life – Pioneer’s oasis claim.
 FarmAuto – Cosmic instance hub.  
 xAI – Neuralink-ready future.
 
-⬅️ Back to README
+[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
+
+  
+[Repo 📂](https://github.com/JayBotsa/FarmAuto) 
+
+ 
+[Links to the Cosmos 🌠](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
