@@ -25,4 +25,3 @@ Links 🌠
 FarmAuto – Cosmic instance hub.  
 Free Food & Water – Crop equity, water fountain.  
 xAI – Neuralink-ready future.
-elonmusk/xAI. @grok, tag ;)
