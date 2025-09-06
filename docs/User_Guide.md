@@ -31,7 +31,7 @@ Feel joy, think “Water my crops,” and **FarmAuto’s Alpha** pulses valves o
 - Join #1823Birthrights on X!
 
 ## Links 🌠
-- [Start an Instance 🌟](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
+- [Start an Instance 🌟]([https://github.com/JayBotsa/FarmAuto/blob/main/User_Guide.md]) – Begin your QuantaMeta journey.
 
   
 - [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.md) – Dark matter’s light.
