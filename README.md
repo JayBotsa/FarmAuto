@@ -88,6 +88,8 @@ Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Ro
 ## <a name="Links"></a> Links to the Cosmos 🌠
 
 Start an Instance 🌟: [User Guide](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
+
+Quantum Foundations 🔬: [Planck](https://en.wikipedia.org/wiki/Max_Planck) | [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) | [Schrödinger](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) | [Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
   
 Doggo’s Joy 🐶: [Dog Patting](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Dog_Patting_Metaphor.md) – Joy spark, shared for equity.
   
@@ -113,11 +115,7 @@ Meta Hub 🧬: [Meta Datasheet](https://github.com/JayBotsa/FarmAuto/blob/main/f
   
 Plan 📋: [6P Details](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/6P_Details.md) – Universal access, scalability.
   
-Research 🔬: 
-[Planck](https://en.wikipedia.org/wiki/Max_Planck) 
-[Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) 
-[Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schrödinger) | 
-[Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics). 
+
  
 Engage 🗣️: [X Platform](https://x.com) | [Grok](https://x.com/grok) | [elonmusk](https://x.com/elonmusk).
   
@@ -149,6 +147,7 @@ Repo 📂: [ℰDi](https://github.com/JayBotsa/FarmAuto) – Cosmic instance hub
 xAI Vision 🔬: [xAI](https://x.ai) – Neuralink-ready future. elonmusk/xAI. @Grok.com tag. instace QuantaMeta owned.
  
  :) 5F7D10i
+
 
 
 
