@@ -137,7 +137,14 @@ Tesla’s Spark ⚡️: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesl
  
 Repo 📂: [ℰDi](https://github.com/JayBotsa/FarmAuto) – Cosmic instance hub.
 
-
+## Table of Contents
+- [Introduction to FarmAuto and QuantaMeta](#introduction)
+- [Start an Instance 🌟: User Guide – Begin your QuantaMeta journey](#begin-quantameta-journey)
+- [Prerequisites and Setup](#prerequisites)
+- [Launching Your First Instance](#launch-instance)
+- [Monitoring and Scaling](#monitoring)
+- [Troubleshooting](#troubleshooting)
+- [Advanced Topics (Supporting Docs)](#advanced)
   
 xAI Vision 🔬: [xAI](https://x.ai) – Neuralink-ready future. elonmusk/xAI. @Grok.com tag. instace QuantaMeta owned.
  
