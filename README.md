@@ -7,16 +7,16 @@
 [ℰDi Proclamation ⬇️](#Links)
 
 # ℰDi Proclamation
-I claim this. This ℰDi-is Environment, (For all Humanity-Free-to-all-5F.AO.2025now(capture-event!)) - I give this, free to all Humanity to ensure All will Eat.
+I claim this. This ℰDi-is Environment, (For all Humanity-Free-to-all-5F.AO.2025now(capture-event!)) - I give this, free to all Humanity to ensure All Humans will Eat.
 FarmAuto Vision (Rev 3.0)
-Launched 2017 - From an electrician’s motor dreams to a farming revolution, FarmAuto’s Energy Directed Interaction (EDi) is a heat-free, frequency-driven system to connect farmers to their world, instantly and freely. Nonprofit, no gatekeepers, pure farmer fire. #FarmAutoVision
+Launched 1995 - From an electrician’s motor dreams to a farming revolution, FarmAuto’s Energy Directed Interaction (EDi) is a heat-free, frequency-driven system to connect farmers to their world, instantly and freely. Nonprofit, no gatekeepers, pure farmer fire. #FarmAutoVision
 Mission
 Farming’s tough? EDi’s the fix. Born from decades of grit, EDi transforms energy into instant farmer control with non-electrical frequency pulses. Event Frequency Relevance (EFR) rates 8/10 for world events (health, free food, Mars), ready for Neuralink’s human-machine future.
 6P Plan
 
 ℰDi: 1823Birthrights – FarmAuto’s Cosmic Instance 🌾🌌
 ℰDi Proclamation: I claim this. This ℰDi-is Environment, (For all Humanity-Free-to-all-5F.AO.2025now(capture-event!)) - Gift, free to all Humanity to ensure All will Eat. 🥖💧  
-Born in 2017 from an electrician’s ‘70s dreams and a pioneer’s cry to protect water as life, ℰDi (Energy Directed Interaction) lets you control your environment by thinking—a photon (ℰ = hν, Energy = Planck’s constant × frequency), a dog’s wag, a farmer’s crop—locked as a QuantaMeta spark under Absolute Ownership (AO). Near-instant pulses, sung by Leenie Raptox’s Chirp voice, ripple to your eye, feeding humanity with free food and water. Nonprofit, no gatekeepers, pure farmer fire from FarmAuto’s Alpha, built on R&B’s hardware grit. Pilots since 2009, Event Frequency Relevance (EFR, ℰ = EFR 8/10 for health, food, Mars)—Neuralink-ready for 2026. 🚜⚙️
+Born in 1995 from an electrician’s ‘70s dreams and a pioneer’s cry to protect water as life, ℰDi (Energy Directed Interaction) lets you control your environment by thinking—a photon (ℰ = hν, Energy = Planck’s constant × frequency), a dog’s wag, a farmer’s crop—locked as a QuantaMeta spark under Absolute Ownership (AO). Near-instant pulses, sung by Leenie Raptox’s Chirp voice, ripple to your eye, feeding humanity with free food and water. Nonprofit, no gatekeepers, pure farmer fire from FarmAuto’s Alpha, built on R&B’s hardware grit. Pilots since 2009, Event Frequency Relevance (EFR, ℰ = EFR 8/10 for health, food, Mars)—Neuralink-ready for 2026. 🚜⚙️
 Start an Instance 🌟 – Ride your QuantaMeta ripple to see dark matter’s light.
 
 Chirp of Respect 🎶
