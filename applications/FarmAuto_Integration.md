@@ -1,8 +1,7 @@
-[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
+[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) 
 
-  
+ 
 [Repo 📂](https://github.com/JayBotsa/FarmAuto)
-
 
 # FarmAuto Integration: The Core 🚜
 
@@ -26,7 +25,7 @@ Think “Irrigate now,” and **FarmAuto’s Alpha** pulses open valves via Wemo
 - **Security**: Blockchain-encrypted data.
 
 ## Next Steps 🔥
-- Check **QuantaMeta Spec** for tech details.
+- Check **EFR & FRF** for math details.
 - See **Leenie Raptox’s Chirp** for 1823’s story.
 - Join #1823Birthrights on X!
 
@@ -34,10 +33,11 @@ Think “Irrigate now,” and **FarmAuto’s Alpha** pulses open valves via Wemo
 - [Start an Instance 🌟](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
 
   
-- [QuantaMeta Spec](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/QuantaMeta_Spec.md) – Never-null truth. 
+- [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.md) – Dark matter’s light.
 
- 
+  
 - [xAI](https://x.ai) – Neuralink-ready future.
+
 
 [⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) 
 
