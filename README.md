@@ -82,7 +82,7 @@ Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Ro
 
 ## Links to the Cosmos 🌠
 
-Start an Instance 🌟: [User Guide](https://github.com/JayBotsa/FarmAuto/blob/main/User_Guide.md) – Begin your QuantaMeta journey.
+Start an Instance 🌟: [User Guide](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
   
 Doggo’s Joy 🐶: [Dog Patting](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Dog_Patting_Metaphor.md) – Joy spark, shared for equity.
   
