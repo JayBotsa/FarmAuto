@@ -1,4 +1,7 @@
-[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto)
+[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) 
+
+ 
+[Repo 📂](https://github.com/JayBotsa/FarmAuto)
 
 # ℰDi User Guide: Start Your QuantaMeta Journey 🌟
 
@@ -31,9 +34,14 @@ Plant, water, grow—by thinking! ℰDi’s **FarmAuto Alpha** connects your tho
 - [Free Food & Water](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FreeFood_Water.md) – Crop equity, water fountain.  
 - [xAI](https://x.ai) – Neuralink-ready future.
 
-[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto)
+[⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)  
+
+
+
+[Repo 📂](https://github.com/JayBotsa/FarmAuto)
 
 @grok.com. tag: elonmusk/xAI. ;)
+
 
 
 
