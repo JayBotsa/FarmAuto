@@ -80,7 +80,7 @@ Join the Fire 🔥
 Explore FarmAuto’s Alpha, Leenie Raptox’s Chirp, R&B’s grit. Dream with us to feed all, free forever. Burn bright in 1823Birthrights! 🫶
 Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Roelf (wisdom), Leenie Raptox (Chirp voice).
 
-## <a name="Links"></a> to the Cosmos 🌠
+## <a name="Links"></a> Links to the Cosmos 🌠
 
 Start an Instance 🌟: [User Guide](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
   
