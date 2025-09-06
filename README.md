@@ -91,7 +91,7 @@ Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Ro
 ## <a name="Links"></a> Links to the Cosmos 🌠
 
 Dreamers’ Corner 🦖: [Leenie Raptox](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md) – Ancestral roar, 1823 roots.
-Quantum Foundations 🔬: [Planck](https://en.wikipedia.org/wiki/Max_Planck) | [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) | [Schrödinger](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) | [Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
+- Quantum Foundations 🔬: [Planck](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) | [Einstein](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Einstein_1905.md) | [Schrödinger](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Schrodinger_1935.md) | [Two String Hypothesis](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Two_String_Hypothesis.md) | [Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
 Stories 📖: [Dog Patting](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Dog_Patting_Metaphor.md) | [Oupa Roelf](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Oupa_Roelf_1909.md) | [Cat-Doggo](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Cat_Doggo_LightsOn.md) | [Water as Life](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md)
 Schrödinger’s Cat 😺: [QuantaMeta Spec](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/QuantaMeta_Spec.md) – Never-null truth.
 Mind Blown 🤯: [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.md) – Dark matter’s light, EFR math.
