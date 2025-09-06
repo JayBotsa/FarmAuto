@@ -85,69 +85,34 @@ Join the Fire 🔥
 Explore FarmAuto’s Alpha, Leenie Raptox’s Chirp, R&B’s grit. Dream with us to feed all, free forever. Burn bright in 1823Birthrights! 🫶
 Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Roelf (wisdom), Leenie Raptox (Chirp voice).
 
+
+
+
 ## <a name="Links"></a> Links to the Cosmos 🌠
 
-Start an Instance 🌟: [User Guide](https://github.com/JayBotsa/FarmAuto/blob/main/docs/User_Guide.md) – Begin your QuantaMeta journey.
-
-Quantum Foundations 🔬: [Planck](https://en.wikipedia.org/wiki/Max_Planck) | [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) | [Schrödinger](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) | [Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
-  
-Doggo’s Joy 🐶: [Dog Patting](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Dog_Patting_Metaphor.md) – Joy spark, shared for equity.
-  
 Dreamers’ Corner 🦖: [Leenie Raptox](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md) – Ancestral roar, 1823 roots.
-  
-Oupa’s Wisdom 📜: [Oupa Roelf](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Oupa_Roelf_1909.md) – No round thing stands on pillars.
-  
+Quantum Foundations 🔬: [Planck](https://en.wikipedia.org/wiki/Max_Planck) | [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) | [Schrödinger](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) | [Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
+Stories 📖: [Dog Patting](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Dog_Patting_Metaphor.md) | [Oupa Roelf](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Oupa_Roelf_1909.md) | [Cat-Doggo](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Cat_Doggo_LightsOn.md) | [Water as Life](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md)
 Schrödinger’s Cat 😺: [QuantaMeta Spec](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/QuantaMeta_Spec.md) – Never-null truth.
-  
 Mind Blown 🤯: [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.md) – Dark matter’s light, EFR math.
-  
 Applications 🌾: [Free Food & Water](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FreeFood_Water.md) – Crop equity, water fountain.
-  
-Dream 🚀: [7F Neuralink](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/7F_Neuralink.md) – Mars farming vision. 
- 
-FarmAuto Alpha 🚜: [FarmAuto Integration](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FarmAuto_Integration.md) – The core. 
- 
-LyreBird Song 🎶: [LyreBird](https://github.com/JayBotsa/FarmAuto/blob/main/stories/LyreBird_Song.md) – Leenie’s tech heir. 
- 
+Dream 🚀: [7F Neuralink](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/7F_Neuralink.md) – Mars farming vision.
+FarmAuto Alpha 🚜: [FarmAuto Integration](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FarmAuto_Integration.md) – The core.
+LyreBird Song 🎶: [LyreBird](https://github.com/JayBotsa/FarmAuto/blob/main/stories/LyreBird_Song.md) – Leenie’s tech heir.
 R&B Hardware ⚙️: [R&B](https://rbprojects.co.za) – Hardware leg.
-  
 Meta Hub 🧬: [Meta Datasheet](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Meta_Datasheet.md) – Navigate the ripple.
-  
 Plan 📋: [6P Details](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/6P_Details.md) – Universal access, scalability.
-  
-
- 
-Engage 🗣️: [X Platform](https://x.com) | [Grok](https://x.com/grok) | [elonmusk](https://x.com/elonmusk).
-  
-Contact 📧: [support@farmauto.co.za](mailto:support@farmauto.co.za). 
- 
-Site 🌐: [https://farmauto.co.za](https://farmauto.co.za).  
-
-ℰDi Logo 📸: ![ℰDi Logo](https://github.com/JayBotsa/FarmAuto/raw/main/images/farmauto-logo.png) – Cosmic spark visual.
-  
+Research 🔬: [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+Engage 🗣️: [X Platform](https://x.com) | [Grok](https://x.com/grok) | [elonmusk](https://x.com/elonmusk)
+Contact 📧: [support@farmauto.co.za](mailto:support@farmauto.co.za)
+Site 🌐: [https://farmauto.co.za](https://farmauto.co.za)
+ℇDi Logo 📸: ![ℇDi Logo](https://github.com/JayBotsa/FarmAuto/raw/main/images/farmauto-logo.png) – Cosmic spark visual.
 Farmers First 🌾: [1823 Biesiesbult](https://github.com/JayBotsa/FarmAuto/blob/main/claims/1823_Birthrights.md) – Water vision, 1823 roots.
-  
-Cat-Doggo Snap 🤯: [Cat-Doggo](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Cat_Doggo_LightsOn.md) – Lights-on moment.
-  
-Water Legacy 💧: [Water as Life](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Pioneer’s oasis claim.
-  
-Tesla’s Spark ⚡️: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) – Energy visionary. 
- 
-Repo 📂: [ℰDi](https://github.com/JayBotsa/FarmAuto) – Cosmic instance hub.
+Tesla’s Spark ⚡️: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) – Energy visionary.
+Repo 📂: [ℇDi](https://github.com/JayBotsa/FarmAuto) – Cosmic instance hub.
+xAI Vision 🔬: [xAI](https://x.ai) – Neuralink-ready future. [elonmusk/xAI](https://x.com/xAI). [@Grok.com](https://x.com/Grok)
 
-## Table of Contents
-- [Introduction to FarmAuto and QuantaMeta](#introduction)
-- [Start an Instance 🌟: User Guide – Begin your QuantaMeta journey](#begin-quantameta-journey)
-- [Prerequisites and Setup](#prerequisites)
-- [Launching Your First Instance](#launch-instance)
-- [Monitoring and Scaling](#monitoring)
-- [Troubleshooting](#troubleshooting)
-- [Advanced Topics (Supporting Docs)](#advanced)
-  
-xAI Vision 🔬: [xAI](https://x.ai) – Neuralink-ready future. elonmusk/xAI. @Grok.com tag. instace QuantaMeta owned.
- 
- :) 5F7D10i
+:) 5F7D10i
 
-
-
+@Grok.com tag: elonmusk/xAI.
 
