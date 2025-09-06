@@ -97,7 +97,7 @@ Oupa’s Wisdom 📜: [Oupa Roelf](https://github.com/JayBotsa/FarmAuto/blob/mai
   
 Schrödinger’s Cat 😺: [QuantaMeta Spec](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/QuantaMeta_Spec.md) – Never-null truth.
   
-Mind Blown 🤯: [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.txt) – Dark matter’s light, EFR math.
+Mind Blown 🤯: [EFR & FRF](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/EFR_FRF.md) – Dark matter’s light, EFR math.
   
 Applications 🌾: [Free Food & Water](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FreeFood_Water.md) – Crop equity, water fountain.
   
