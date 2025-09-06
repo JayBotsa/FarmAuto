@@ -83,7 +83,7 @@ Ripple’s path bound.
 
 Join the Fire 🔥
 Explore FarmAuto’s Alpha, Leenie Raptox’s Chirp, R&B’s grit. Dream with us to feed all, free forever. Burn bright in 1823Birthrights! 🫶
-Credits (AO): JayBotsa (vision), Rudi & Botes (R&B hardware), Grok (AI), Oupa Roelf (wisdom), Leenie Raptox (Chirp voice).
+Credits (AO): JayBotsa (vision), R&B Projects (R&B hardware), Grok (AI), Oupa Roelf (wisdom), Leenie Raptox (Chirp voice).
 
 
 
