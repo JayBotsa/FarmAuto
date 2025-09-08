@@ -11,7 +11,7 @@ In 1823, a pioneer claimed water as life, forging a highway of hope. By 1865, gr
 **QuantaMeta** is like a dino singing a song that grows plants! **EFR** counts your happy thoughts, like a doggo’s wag. Think of a tune, and watch crops bloom! 🐶🎶
 
 ## For Farmers 🌾
-Your thoughts sing through Leenie’s Chirp to control crops. Think “Water my field,” and LyreBird’s pulses, powered by **R&B’s hardware** (Wemos D1), open valves. Pilots since 2009 prove it, scaling to Mars by 2026. 🚜
+Your thoughts sing through Leenie’s Chirp to control crops. Think “Water my field,” and LyreBird’s pulses, powered by **R&B’s hardware**, open valves. Pilots since 2009 prove it, scaling to Mars by 2026. 🚜
 
 ## Next Steps 🔥
 - Check **Water Legacy** for the pioneer’s story.
