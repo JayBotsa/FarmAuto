@@ -99,7 +99,7 @@ Applications 🌾: [Free Food & Water](https://github.com/JayBotsa/FarmAuto/blob
 Dream 🚀: [7F Neuralink](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/7F_Neuralink.md) – Mars farming vision.
 FarmAuto Alpha 🚜: [FarmAuto Integration](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FarmAuto_Integration.md) – The core.
 LyreBird Song 🎶: [LyreBird](https://github.com/JayBotsa/FarmAuto/blob/main/stories/LyreBird_Song.md) – Leenie’s tech heir.
-R&B Hardware ⚙️: [R&B](https://rbprojects.co.za) – Hardware leg.
+R&B Hardware ⚙️: [R&B](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/RB_Hardware.md) – Hardware leg.
 Meta Hub 🧬: [Meta Datasheet](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Meta_Datasheet.md) – Navigate the ripple.
 Plan 📋: [6P Details](https://github.com/JayBotsa/FarmAuto/blob/main/6p-plan/6P_Details.md) – Universal access, scalability.
 Research 🔬: [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
