@@ -6,7 +6,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**LyreBird’s Song** carries **ℰDi (Energy Directed Interaction)** through Leenie Raptox’s tech voice, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**LyreBird’s Song** carries **ℰDi (Energy Directed Interaction)** through Leenie Raptox’s tech voice, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** . 🥖🌍
 
 ## The Song 🌌
 Your thought (“Grow my crops!”) becomes a photon (**ℰ = hν**, Energy = Planck’s constant × frequency), sung by **LyreBird’s Chirp**. Pilots since 2009 show 5-second lag, scaling to Mars by 2026. 🫶
