@@ -31,7 +31,7 @@ Think “Water my crops,” and **Two String Hypothesis** pulses through **R&B�
 
 ## Journey Links 🌠
 
-- [⬅️ 🧠](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Schrodinger_1935.md) < [⬅️Follow the journey➡️]>> [Nikola Tesla 🌀💤✨](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Nikola_Tesla_Charged.md) – hmm?
+- [⬅️ 😺](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Schrodinger_1935.md) < [⬅️Follow the journey➡️]>> [Nikola Tesla 🌀💤✨](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Nikola_Tesla_Charged.md) – Vision!
 
 ## Links 🌠
 
