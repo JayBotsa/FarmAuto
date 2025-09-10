@@ -28,10 +28,10 @@ Think “Water my crops,” and **Planck’s Quanta** pulses through **R&B’s h
 - Check **Einstein’s E=mc²** for the next cosmic leap.
 - See **Leenie Raptox’s Chirp** for 1823’s story.
 - Join #1823Birthrights on X!
-[Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) – Frequency’s power.
+
 ## Journey Links 🌠
 
-- [⬅️ Back](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) <<[Follow the journey] >> [Water as Life 🌊]([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Einstein_1905.md) – Frequency’s power.) – Life’s cosmic fountain.
+- [⬅️ Back](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) <<[Follow the journey] >> [Water as Life 🌊]([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Einstein_1905.md) – Frequency’s power.) – Life’s cosmic fountain.
 
 ## Links 🌠
 
