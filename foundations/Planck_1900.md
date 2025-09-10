@@ -31,7 +31,7 @@ Think “Water my crops,” and **Planck’s Quanta** pulses through **R&B’s h
 
 ## Journey Links 🌠
 
-- [⬅️ Back](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) <<[Follow the journey] >> [Water as Life 🌊]([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Einstein_1905.md) – Frequency’s power.) – Life’s cosmic fountain.
+- [⬅️ 💧](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) <<[🧪Follow the journey🧬] >> ([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Einstein_1905.md) – Frequency’s power.) 
 
 ## Links 🌠
 
