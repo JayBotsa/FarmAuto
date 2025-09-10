@@ -29,7 +29,7 @@ Tesla’s work on alternating current and resonance aligns with QuantaMeta’s E
 
 ## Journey Links 🌠
 
-- [⬅️ ➡️](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Two_String_Hypothesis.md)  <<[⏩Follow the journey🧬🗿🐒🐘🦅🐬🦋🐾)] >> ([Planck’s Quanta 🔬](Humans) – Humanity and beYond.) 
+- [⬅️ ➡️](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Two_String_Hypothesis.md)  <<[⏩Follow the journey🧬🗿🐒🐘🦅🐬🦋🐾)] >> ([Humams 🧑‍🤝‍🧑](https://github.com/JayBotsa/FarmAuto/blob/main/Humanity/Human_Birth_Rights.md)) – Humanity and beYond.) 
 
 ## Links 🌠
 
