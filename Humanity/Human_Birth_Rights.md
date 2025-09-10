@@ -2,12 +2,14 @@
 
 [Repo 📂](https://github.com/JayBotsa/FarmAuto)
 
-# Human Birth Rights: 
-Energy for All 🧬🗿🌍🐒🐘🦅🐬🦋🐾🌌✨🪐🕊️🌱🪴🏔️ 
-- FREE Water hydrate💧🌊🫧🥛 
-- Food eat🥗🍚🍯🍎🍇🍊🌽🥑🥦🥕🥬🧄🧅🌶️ 
-- Air to Beath🌬️💨🍃☁️🕊️ 
-- a Place under the Sun 🌞🏞️🏝️🏔️🌋🏠🛖
+# Human Birth Rights: (This Should for to all humans!)
+
+- Free Energy for All 🧬🗿🌍🐒🐘🦅🐬🦋🐾🌌✨🪐🕊️🌱🪴🏔️
+- Free ℰDi to interact 🧬🗿⚛️🔬🧪🧬⚫🕳️🌀♾️🌌⚛️⚫✨🧑‍🌾🌾🌽🥕🚜🌱🌻🌿🌾🍞🍯
+- FREE Water to hydrate💧🌊🫧🥛 
+- FREE Food to eat🥗🍚🍯🍎🍇🍊🌽🥑🥦🥕🥬🧄🧅🌶️ 
+- Free Air to Beath🌬️💨🍃☁️🕊️ 
+- Free Place under the Sun to live 🌞🏞️🏝️🏔️🌋🏠🛖🚜
 
 
 **Under Construction 🚧**: Building the vision for universal access—check back for updates! #QuantaMetaVibes #FarmAutoVision
