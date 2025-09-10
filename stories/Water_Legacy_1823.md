@@ -32,7 +32,7 @@ Water channels Leenie’s energy (E = hν, h = 6.626e-34 J·s) since Mesozoic er
 
 ## Journey Links 🌠
 
-- [⬅️ Back](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md) <<[Follow the journey] >> [Water as Life 🌊]([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) – Frequency’s power.) – Life’s cosmic fountain.
+- [⬅️ 🦖](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md) <<[✨Follow the journey🌌] >> ([Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) – Frequency’s power.) – Life’s cosmic fountain.
 
 ## Links 🌠
 
