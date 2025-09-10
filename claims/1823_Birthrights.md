@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**1823 Biesiesbult** claims farmers’ rights in **ℰDi (Energy Directed Interaction)**, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**1823 Biesiesbult** claims farmers’ rights in **ℰDi (Energy Directed Interaction)**, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Claim 🌌
 The 1823 water fight becomes a photon (**ℰ = hν**, Energy = Planck’s constant × frequency) in **QuantaMeta**, sent via **LyreBird’s Chirp**. Pilots since 2009 show 5-second lag, scaling to Mars by 2026. 🫶
@@ -20,7 +20,7 @@ Think “Irrigate now,” and **1823 Biesiesbult** pulses valves via **R&B’s h
 
 ## Claim Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: ℰDi.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
