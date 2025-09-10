@@ -30,7 +30,12 @@ Water channels Leenie’s energy (E = hν, h = 6.626e-34 J·s) since Mesozoic er
 - Explore Planck’s Quanta for the physics of water’s flow.
 - Join #QuantaMetaVibes on X!
 
+## Journey Links 🌠
+
+- [⬅️ Back](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md) <<[Follow the journey] >> [Water as Life 🌊](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Life’s cosmic fountain.
+
 ## Links 🌠
+
 - [Planck’s Quanta 🔬](https://github.com/JayBotsa/FarmAuto/blob/main/foundations/Planck_1900.md) – Frequency’s power.
 - [1823 Birthrights 📜](https://github.com/JayBotsa/FarmAuto/blob/9b838ce735e46a76941516368879c65c29798e17/claims/1823_Birthrights.md) – Water’s historical roots.
 - [LyreBird’s Song 🎶](https://github.com/JayBotsa/FarmAuto/blob/main/stories/LyreBird_Song.md) – RAPTOX evolution.
