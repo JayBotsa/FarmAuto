@@ -19,12 +19,12 @@ Your thoughts sing through Leenie’s Chirp to control crops. Think “Water my 
 - Join #1823Birthrights on X to dream big!
 
 ## Links 🌠
-- [Follow the journey] >> [Water as Life 🌊](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Life’s cosmic fountain.
+- [⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) <<[Follow the journey] >> [Water as Life 🌊](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Life’s cosmic fountain.
 
 
 - [Free Food & Water 🥕](https://github.com/JayBotsa/FarmAuto/blob/main/applications/FreeFood_Water.md) – Crop equity, water’s flow.
 - [xAI 🚀](http://x.ai) – Neuralink-ready future.
-- [⬅️ Back to README](https://github.com/JayBotsa/FarmAuto/blob/main/README.md)
+ 
 
 [Repo 📂](https://github.com/JayBotsa/FarmAuto)
 
