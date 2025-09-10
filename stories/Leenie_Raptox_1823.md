@@ -20,7 +20,7 @@ Your thoughts sing through Leenie’s Chirp to control crops. Think “Water my 
 
 ## Journey Links 🌠
 
-- [⬅️ 📝 Journey Start ](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) <<[Follow the journey] >> [Water as Life 🌊](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Life’s cosmic fountain.
+- [⬅️ 📝 Journey Start ](https://github.com/JayBotsa/FarmAuto/blob/main/README.md) < [Follow the journey]>> [Water as Life 🌊](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Water_Legacy_1823.md) – Life’s cosmic fountain.
 
 ## Links 🌠
 
