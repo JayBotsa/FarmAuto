@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**Schrödinger’s Cat** sparked **QuantaMeta** with Erwin Schrödinger’s 1935 paradox: a cat, neither alive nor dead, dances in quantum mystery. **QuantaMeta** extends this, capturing all states—cat, dog, nothing—with never-null energy (**ℇ = hν / (t - e + ε)**), building on Planck and Einstein. Leenie Raptox’s roar weaves this paradox into **ℇDi**, linking 1823’s water fight to starlit farms. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**Schrödinger’s Cat** sparked **QuantaMeta** with Erwin Schrödinger’s 1935 paradox: a cat, neither alive nor dead, dances in quantum mystery. **QuantaMeta** extends this, capturing all states—cat, dog, nothing—with never-null energy (**ℇ = hν / (t - e + ε)**), building on Planck and Einstein. Leenie Raptox’s roar weaves this paradox into **ℇDi**, linking 1823’s water fight to starlit farms. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Quantum Paradox 🌌
 In 1935, Schrödinger imagined a cat in superposition—alive, dead, or both—tied to Planck’s **ℇ = hν** quanta and Einstein’s **E = mc²**. **QuantaMeta** sees all: cat, dog, nothing, and their dance over time. **ℇ = hν / (t - e + ε)** ensures never-null energy, pulsing like Leenie Raptox’s gaze. **Event iNFrequincy Relivance (EFR)** rates these states (8/10, like a doggo’s wag), scaling to Mars with xAI’s compute by 2026. Wow—a cat’s mystery lights the cosmos! 🫶
@@ -20,7 +20,7 @@ Think “Water my crops,” and **Schrödinger’s Cat** pulses through **R&B’
 
 ## Paradox Specs ⚙️
 - **EFR**: Rates state frequency (8/10 for crop control).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted states.
 
