@@ -6,7 +6,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-A doggo’s happy wag sparks **ℰDi (Energy Directed Interaction)**, turning love into **QuantaMeta sparks**. Rooted in a 1823 pioneer’s water fight, **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates joy (8/10, like a doggo’s tail) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+A doggo’s happy wag sparks **ℰDi (Energy Directed Interaction)**, turning love into **QuantaMeta sparks**. Rooted in a 1823 pioneer’s water fight, **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates joy (8/10, like a doggo’s tail) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Joy Spark 🌌
 Pat a doggo, feel the vibe—that’s a photon (**ℰ = hν**, Energy = Planck’s constant × frequency) in **QuantaMeta**. **EFR** measures it, sent via **LyreBird’s Chirp**. Pilots since 2009, Neuralink-ready by 2026. 🫶
@@ -19,7 +19,7 @@ Feel joy, think “Water my crops,” and **FarmAuto’s Alpha** pulses valves v
 
 ## Joy Specs ⚙️
 - **EFR**: Rates joy frequency (8/10 for doggo vibes).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
