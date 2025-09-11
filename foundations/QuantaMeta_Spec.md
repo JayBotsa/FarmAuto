@@ -8,7 +8,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**QuantaMeta** is the core of **ℰDi (Energy Directed Interaction)**, capturing thoughts as cosmic sparks, owned forever under **Absolute Ownership (AO)**. Rooted in a 1823 pioneer’s water fight, it uses **Event iNFrequincy Relivance (EFR, ℰ = EFR)** to turn thoughts into crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**QuantaMeta** is the core of **ℰDi (Energy Directed Interaction)**, capturing thoughts as cosmic sparks, owned forever under **Absolute Ownership (AO)**. Rooted in a 1823 pioneer’s water fight, it uses **Event iNFrequincy Relivance (EFR, ℰ = EFR)** to turn thoughts into crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Never-Null Truth 🌌
 Your thought is a photon (**ℰ = hν**, Energy = Planck’s constant × frequency), locked as a **QuantaMeta spark**. Unlike Schrödinger’s Cat, **EFR** rates thought frequency (8/10, like a doggo’s wag) for never-null truth. **LyreBird’s Chirp** sends pulses to control crops, proven since 2009, Neuralink-ready by 2026. 🚜
@@ -21,7 +21,7 @@ Think “Irrigate now,” and **QuantaMeta** pulses via **R&B’s hardware** ope
 
 ## Tech Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
-- **Hardware**: Wemos D1 chips, 5-second lag, storm-proof.
+- **Hardware**: 5-second lag, storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
