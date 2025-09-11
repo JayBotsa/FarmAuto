@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-The **6P Plan** makes **ℰDi (Energy Directed Interaction)** free for every farmer, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates your thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+The **6P Plan** makes **ℰDi (Energy Directed Interaction)** free for every farmer, rooted in a 1823 pioneer’s water fight. **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates your thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Plan 🌌
 The 6P Plan—access, efficiency, security, nonprofit, scalability, engagement—turns thoughts into photons (**ℰ = hν**, Energy = Planck’s constant × frequency) via **LyreBird’s Chirp**. Free tech, less water, blockchain security, no profits, fast setup, and X hype. Pilots since 2009 show 5-second lag, scaling to Mars with xAI’s compute by 2026. 🫶
@@ -20,7 +20,7 @@ Think “Irrigate now,” and the **6P Plan** pulses valves open via **R&B’s h
 
 ## Plan Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
