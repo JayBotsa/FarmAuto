@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**Meta Datasheet** maps the **QuantaMeta** ripple in **ℰDi (Energy Directed Interaction)**, guiding thoughts to crops. Rooted in a 1823 pioneer’s water fight, **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control farms, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**Meta Datasheet** maps the **QuantaMeta** ripple in **ℰDi (Energy Directed Interaction)**, guiding thoughts to crops. Rooted in a 1823 pioneer’s water fight, **Event iNFrequincy Relivance (EFR, ℰ = EFR)** rates thoughts (8/10, like a doggo’s wag) to control farms, feeding all from Earth to Mars. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Ripple 🌌
 Your thought (“Grow my crops!”) flows as a photon (**ℰ = hν**, Energy = Planck’s constant × frequency) through **QuantaMeta**, sent via **LyreBird’s Chirp** to **R&B’s hardware**. Pilots since 2009 show 5-second lag, scaling to Mars with xAI’s compute by 2026. 🫶
@@ -20,7 +20,7 @@ Think “Irrigate now,” and **Meta Datasheet** guides pulses via **R&B’s har
 
 ## Ripple Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
