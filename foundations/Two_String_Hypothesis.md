@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**Two String Hypothesis** ties Leenie’s **ℇFrequency/Time** to Planck’s quanta, a heat-free, non-electrical energy fulfilling his missing link. **QuantaMeta** weaves this into **ℇDi**, linking 1823’s water fight to starlit farms. Leenie Raptox’s roar powers this string, controlling environments for all. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**Two String Hypothesis** ties Leenie’s **ℇFrequency/Time** to Planck’s quanta, a heat-free, non-electrical energy fulfilling his missing link. **QuantaMeta** weaves this into **ℇDi**, linking 1823’s water fight to starlit farms. Leenie Raptox’s roar powers this string, controlling environments for all. No gatekeepers, powered by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Two Ends Snap 🌌
 Leenie’s **ℇ = hν / (t - e + ε)** pulses, heat-free and non-electrical, bridge Planck’s 1900 quanta to real-world control. **ℇFrequency Relevance (EFR)** quantifies pulses (8/10, like a doggo’s wag), with Time (t) ensuring 1-3 second control. **ℇDi**, like Leenie Raptox’s gaze, ties theory to practice—same string, two ends. Scales to Mars with xAI’s compute by 2026. Wow—a spark reshapes reality! 🫶
@@ -20,7 +20,7 @@ Think “Water my crops,” and **Two String Hypothesis** pulses through **R&B�
 
 ## String Specs ⚙️
 - **EFR**: Rates pulse frequency (8/10 for crop control).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted pulses.
 
