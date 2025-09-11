@@ -7,7 +7,7 @@
 
 **Under Construction 🚧**: Building the 1823 vision—check back for updates! #1823Birthrights
 
-**Event iNFrequincy Relivance (EFR, ℰ = EFR)** powers **ℰDi (Energy Directed Interaction)**, measuring thought frequency to spark **QuantaMeta** actions. Rooted in a 1823 pioneer’s water fight, EFR rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, driven by **FarmAuto’s Alpha** and **R&B’s hardware** (Wemos D1 chips). 🥖🌍
+**Event iNFrequincy Relivance (EFR, ℰ = EFR)** powers **ℰDi (Energy Directed Interaction)**, measuring thought frequency to spark **QuantaMeta** actions. Rooted in a 1823 pioneer’s water fight, EFR rates thoughts (8/10, like a doggo’s wag) to control crops, feeding all from Earth to Mars. No gatekeepers, driven by **FarmAuto’s Alpha** and **R&B’s hardware**. 🥖🌍
 
 ## The Math 🌌
 EFR quantifies thought frequency (**ℰ = hν**, Energy = Planck’s constant × frequency), turning ideas into pulses via **LyreBird’s Chirp**. FRF (Frequency Relevance Factor) refines it, ensuring never-null truth, like dark matter lighting up. Proven since 2009, Neuralink-ready by 2026. 🚜
@@ -21,7 +21,7 @@ Think “Water my crops,” and EFR sends pulses via **R&B’s hardware** to ope
 ## Tech Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
 - **FRF**: Refines relevance for precision.
-- **Hardware**: Wemos D1 chips, 5-second lag, storm-proof.
+- **Hardware**: 5-second lag, storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 
 ## Next Steps 🔥
