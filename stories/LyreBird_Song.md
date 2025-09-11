@@ -19,7 +19,7 @@ Think “Irrigate now,” and **LyreBird** pulses valves via **R&B’s hardware*
 
 ## Song Specs ⚙️
 - **EFR**: Rates thought frequency (8/10 for crops).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted data.
 
