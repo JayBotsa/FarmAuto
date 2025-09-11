@@ -20,7 +20,7 @@ Think “Water my crops,” and **Einstein’s Relativity** pulses through **R&B
 
 ## Relativity Specs ⚙️
 - **EFR**: Rates energy frequency (8/10 for crop control).
-- **Hardware**: Wemos D1 chips, storm-proof.
+- **Hardware**: storm-proof.
 - **Integration**: xAI’s compute, Neuralink-ready 2026.
 - **Security**: Blockchain-encrypted thoughts.
 
