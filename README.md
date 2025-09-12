@@ -37,6 +37,6 @@ Farming’s tough? **ℰDi**’s the fix. Born from decades of grit, **ℰDi** t
 - **Leenie Raptox**: Chirp voice.
 
 ## License
-MIT License [(pending finalization). Join us to shape the open-source future!](https://github.com/JayBotsa/FarmAuto/blob/main/LICENSE.md)
+MIT [License](https://github.com/JayBotsa/FarmAuto/blob/main/LICENSE.md)
 
 @Grok.com tag: elonmusk/xAI #FarmAutoVision
