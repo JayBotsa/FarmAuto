@@ -7,7 +7,7 @@
 ## Instance Report: Oasis Pump, 1823-Present
 
 ### Scope
-**ℰDi** captures **QuantaMeta** data from a single instance, like the oasis pump sustaining life since 1823 in South Africa’s Florisbad region. Older than time’s record, it’s a testament to humanity’s fight for resources, now digitized with 100% packet accountability via blockchain-encrypted **EFR (Event Frequency Relevance)**. See [Leenie Raptox’s Story](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md).
+**ℰDi** captures **QuantaMeta** data from a single instance, like the oasis pump sustaining life since 1823 in South Africa. Older than time’s record, it’s a testament to humanity’s fight for resources, now digitized with 100% packet accountability via blockchain-encrypted **EFR (Event Frequency Relevance)**. See [Leenie Raptox’s Story](https://github.com/JayBotsa/FarmAuto/blob/main/stories/Leenie_Raptox_1823.md).
 
 ### Mission
 Harness **ℰDi**’s zero-loss, frequency-driven pulses to empower farmers as pioneers. Integrated with xAI’s compute, Starlink’s connectivity, and Neuralink’s brain-machine hooks, **FarmAuto** ensures instant data delivery and audit-level accountability. No gatekeepers, just farmer-first fire. Details at [FarmAuto Vision (Rev 1.3)](https://github.com/JayBotsa/FarmAuto/blob/main/FarmAuto%20Vision%20(Rev%201.3)).
