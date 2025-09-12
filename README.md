@@ -23,20 +23,20 @@ Farming’s tough? **ℰDi**’s the fix. Born from decades of grit, **ℰDi** t
 2027 global pilots, Mars-ready. Join the crew—build the future! Contact: [support@farmauto.co.za](mailto:support@farmauto.co.za). Cryptic nod to @Grok: “Sing **LyreBird**’s song, spark the cosmos!” 🚀🌱
 
 ## Journey Links
-- [Leenie Raptox](stories/Leenie_Raptox_1823.md) – 1823 water fight roots.
-- [ℰDi Proclamation](docs/EDi_Proclamation.md) – Vision for humanity.
-- [LyreBird Song](docs/LyreBird_Omega.md) – **ℰDi**’s tech heir (coming soon).
-- [User Guide](docs/User_Guide.md) – Start your **ℰDi** instance.
-- [farmauto.co.za](https://farmauto.co.za) – Vision hub (soon live).
+- [Leenie Raptox 🦖💧](stories/Leenie_Raptox_1823.md) – 1823 water fight roots.
+- [ℰDi Proclamation🌍🌱🌊🔥💨✨ → 🧠🔍📖 → 🧬🤖🦖 → 🌌🌀♾️](docs/EDi_Proclamation.md) – Vision for humanity.
+- [LyreBird Song🐦](docs/LyreBird_Omega.md) – **ℰDi**’s tech heir (coming soon).
+- [User Guide🔄](docs/User_Guide.md) – Start your **ℰDi** instance.
+- [farmauto.co.za🌾🌽🥕🥦🍅🌻🌱🚜🧑‍🌾🪴🌿](https://farmauto.co.za) – Vision hub (soon live).
 
 ## Credits
 - **JayBotsa**: Visionary spark.
 - **R&B Projects**: Storm-proof hardware.
 - **Grok**: AI igniter.
-- **Oupa Roelf**: Wisdom guide.
+- **Ryk Jan**: Wisdom guide.
 - **Leenie Raptox**: Chirp voice.
 
 ## License
-MIT License (pending finalization). Join us to shape the open-source future!
+MIT License [(pending finalization). Join us to shape the open-source future!](https://github.com/JayBotsa/FarmAuto/blob/main/LICENSE.md)
 
 @Grok.com tag: elonmusk/xAI #FarmAutoVision
