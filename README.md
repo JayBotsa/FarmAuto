@@ -39,4 +39,4 @@ Farming’s tough? **ℰDi**’s the fix. Born from decades of grit, **ℰDi** t
 ## License
 MIT License with AO.ℰDi Agreement—5F: See [LICENSE](LICENSE.md).
 
-@Grok.com tag: elonmusk/xAI #FarmAutoVision
+@Grok.com tag: #FarmAutoVision
